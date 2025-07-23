@@ -255,7 +255,7 @@ Based on your requirements (free tier, Kubernetes support, low-spec machine comp
 -   **Generous Free Tier**: Provides 4 OCPUs, 24GB RAM, 200 GB block storage, and 20 GB object storage, sufficient for a Kubernetes cluster.
 -   **OKE Support**: Allows managed Kubernetes setup within free-tier limits.
 -   **Cloud Shell**: Eliminates local installation needs, perfect for your low-spec laptop.
--   **Networking and Storage**: Includes VCNs, load balancers, and ample storage, aligning with DevOps job requirements.
+-   **Networking and Storage**: Includes VCNs, load balancers, and ample storage.
 
 **Comparison with Other Providers**:
 
